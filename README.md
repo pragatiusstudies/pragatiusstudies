@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @pragatiusstudies
-- 👀 I’m interested in python,java,java script,software engineering 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reacch me ....
+# 👋 Hi, I'm Pragati Dharmale
 
-<!---
-pragatiusstudies/pragatiusstudies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 CS Faculty | AI/ML Researcher | IEEE Author | Book Author
+
+## 🔬 Research Interests
+- EEG Signal Processing & Biomedical AI
+- Deep Learning (CNN, LSTM, Hybrid Models)
+- Machine Learning for Education & Healthcare
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Student Grade Predictor](link) | ML + SHAP explainability for at-risk student detection | Python, scikit-learn, SHAP |
+| [Python Tutor Chatbot](link) | AI-powered Python tutor using open-source LLMs | Streamlit, HuggingFace |
+| [ML Visual Explorer](link) | Interactive visualization of 6 ML algorithms | Streamlit, scikit-learn |
+
+## 📄 Publications
+- *Automated Recognition of ASD from EEG Signals* — IEEE
+- *Promising Applications of AI in Student Success* — IEEE
+- *Accelerated SWT-Based EEG Denoising* — IEEE
+
+## 📖 Book
+[Database Architecture and Implementation](link) — From Modeling to Performance Tuning
