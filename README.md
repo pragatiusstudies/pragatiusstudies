@@ -20,6 +20,7 @@
 | [Student Grade Predictor](https://github.com/pragatiusstudies/student-grade-predictor) | ML + SHAP explainability for at-risk student detection | Python, scikit-learn, SHAP |
 | [Python Tutor Chatbot](https://github.com/pragatiusstudies/python-tutor-chatbot) | AI-powered Python tutor using open-source LLMs | Streamlit, HuggingFace |
 | [ML Visual Explorer](https://github.com/pragatiusstudies/ml-visual-explorer) | Interactive visualization of 6 ML algorithms | Streamlit, scikit-learn |
+| [AI Social Media Post Generator](https://github.com/pragatiusstudies/ai-social-media-generator) | An automated workflow that generates engaging social media posts | n8n, OpenAI |
 
 ## 📄 Publications
 - *Automated Recognition of ASD from EEG Signals* — IEEE
