@@ -27,4 +27,4 @@
 - *Accelerated SWT-Based EEG Denoising* — IEEE
 
 ## 📖 Book
-[Database Architecture and Implementation: From Modeling to Performance Tuning]([link](https://play.google.com/store/books/details/Pragati_Dharmale_Database_Architecture_and_Impleme?id=cCGOEQAAQBAJ&pli=1) 
+[Database Architecture and Implementation: From Modeling to Performance Tuning](https://play.google.com/store/books/details/Pragati_Dharmale_Database_Architecture_and_Impleme?id=cCGOEQAAQBAJ&pli=1) 
